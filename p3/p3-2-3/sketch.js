@@ -75,7 +75,7 @@ function draw() {
     }
     vertex(pnts[0].x, pnts[0].y);
     endShape();
-    
+
     //   strokeWeight(0.08);
     //   beginShape();
     //   // start controlpoint
