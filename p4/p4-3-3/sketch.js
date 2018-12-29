@@ -7,10 +7,6 @@ let pointCount = 1;
 let diffusion = 50;
 let streamReady = false;
 
-function preload() {
-  img = loadImage('data/pic.png');
-}
-
 function setup() {
   createCanvas(640, 480);
   background(255);
